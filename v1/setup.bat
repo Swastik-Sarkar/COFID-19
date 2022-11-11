@@ -2,7 +2,4 @@
 echo "==================="
 echo "|  Setup Started  |" 
 echo "==================="
-C:
-cd Windows/System32
-mkdir system
-cd system
+python aa1.py
