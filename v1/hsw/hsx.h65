@@ -1,0 +1,6 @@
+[sector=A]
+>hsw.hsx;
+  load disk.Partition in sector[ln=1,chr=1] if disk.Partitions.Value = 0 else raise function disk.Delete(disk.Partions raise except drive.Partition(0)
+  
+[.defineVariables()]
+';' : package
