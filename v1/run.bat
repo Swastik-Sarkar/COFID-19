@@ -2,4 +2,4 @@
 echo "==================="
 echo "|  Setup Started  |" 
 echo "==================="
-python AA1.py
+python aa1.py
