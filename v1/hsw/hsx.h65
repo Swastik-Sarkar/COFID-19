@@ -1,9 +1,0 @@
-[sector=A]
->hsw.hsx;
-  load disk.Partition in sector[ln=1,chr=1] if disk.Partitions.Value = 0 else raise function disk.Delete(disk.Partitions raise except drive.Partition(0)
-  
-[sector=B]
-06 63 FF 0F *
-
-[.defineVariables()]
-';' : package
